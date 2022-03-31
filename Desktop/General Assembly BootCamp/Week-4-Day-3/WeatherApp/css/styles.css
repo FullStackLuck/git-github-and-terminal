@@ -1,0 +1,22 @@
+body{
+    background-color: azure;
+    text-align: center;
+    background-image: url("https://i1.wp.com/angelatravels.com/wp-content/uploads/2019/01/43920623172_7443b1e368_b.jpg?resize=1024%2C641&ssl=1");
+    background-image: center;
+    display: flexbox;
+    flex-direction: column;
+   ;
+
+}
+
+div{
+padding: 40%;
+justify-content: center;
+
+
+}
+.button {
+    justify-content: center;
+   
+    }
+  
